@@ -1,0 +1,2 @@
+Tamanho do maior clique encontrado: 2
+1 2 
